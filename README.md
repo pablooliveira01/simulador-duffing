@@ -107,7 +107,7 @@ Após iniciado, abra seu navegador em http://127.0.0.1:8050/ para acessar o simu
 
 ### 3.3 Espaço de Fase 2D
 
-![Espaço de Fase 2D](assets/espaço-fase-2d.png)
+![Espaço de Fase 2D](assets/espaco-fase-2d.png)
 *Fluxo do sistema com setas direcionais.*
 
 ### 3.4 Superfície 3D
@@ -122,7 +122,7 @@ Após iniciado, abra seu navegador em http://127.0.0.1:8050/ para acessar o simu
 
 ### 3.6 Espaço de Fase 3D
 
-![Espaço de Fase 3D](assets/espaço-fase-3d.png)
+![Espaço de Fase 3D](assets/espaco-fase-3d.png)
 *Visualização tridimensional do espaço de fase.*
 
 ### 3.7 Diagrama de Bifurcação
