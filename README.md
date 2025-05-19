@@ -95,50 +95,50 @@ Após iniciado, abra seu navegador em http://127.0.0.1:8050/ para acessar o simu
 
 ## 3. Exemplo de Uso e Demonstração
 
-### 3.1 Diagrama de Bifurcação
-
-![Diagrama de Bifurcação](assets/diagrama-bifurcacao.png)
-*Mostra pontos de transição para comportamento caótico em função da amplitude A.*
-
-### 3.2 Espaço de Fase 2D
-
-![Espaço de Fase 2D](assets/espaço-fase-2d.png)
-*Fluxo do sistema com setas direcionais.*
-
-### 3.3 Espaço de Fase 3D
-
-![Espaço de Fase 3D](assets/espaço-fase-3d.png)
-*Visualização tridimensional do espaço de fase.*
-
-### 3.4 Gráfico de Recorrência
-
-![Gráfico de Recorrência](assets/gráfico-de-recorrência.png)
-*Mapa de recorrência destacando padrões periódicos e caóticos.*
-
-### 3.5 Variação de Parâmetros
-
-![Variação de Parâmetros](assets/parametros.png)
-*Exemplo de variação de parâmetros e seus impactos no sistema.*
-
-### 3.6 Seção de Poincaré
-
-![Mapa de Poincaré](assets/poincare.png)
-*Seção de Poincaré evidenciando a estrutura do atrator.*
-
-### 3.7 Rede de Osciladores
-
-![Rede de Osciladores](assets/rede-osciladores.png)
-*Visualização da interação em rede de múltiplos osciladores.*
-
-### 3.8 Séries Temporais
+### 3.1 Séries Temporais
 
 ![Séries Temporais](assets/series-temporais.png)
 *Evolução temporal de posição e velocidade.*
 
-### 3.9 Superfície 3D
+### 3.2 Variação de Parâmetros
+
+![Variação de Parâmetros](assets/parametros.png)
+*Exemplo de variação de parâmetros e seus impactos no sistema.*
+
+### 3.3 Espaço de Fase 2D
+
+![Espaço de Fase 2D](assets/espaço-fase-2d.png)
+*Fluxo do sistema com setas direcionais.*
+
+### 3.4 Superfície 3D
 
 ![Superfície 3D](assets/superficie-3d.png)
 *Superfície 3D do potencial duffingiano.*
+
+### 3.5 Seção de Poincaré
+
+![Mapa de Poincaré](assets/poincare.png)
+*Seção de Poincaré evidenciando a estrutura do atrator.*
+
+### 3.6 Espaço de Fase 3D
+
+![Espaço de Fase 3D](assets/espaço-fase-3d.png)
+*Visualização tridimensional do espaço de fase.*
+
+### 3.7 Diagrama de Bifurcação
+
+![Diagrama de Bifurcação](assets/diagrama-bifurcacao.png)
+*Mostra pontos de transição para comportamento caótico em função da amplitude A.*
+
+### 3.8 Gráfico de Recorrência
+
+![Gráfico de Recorrência](assets/grafico-de-recorrencia.png)
+*Mapa de recorrência destacando padrões periódicos e caóticos.*
+
+### 3.9 Rede de Osciladores
+
+![Rede de Osciladores](assets/rede-osciladores.png)
+*Visualização da interação em rede de múltiplos osciladores.*
 
 ---
 
