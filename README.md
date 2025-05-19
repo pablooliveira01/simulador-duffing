@@ -12,9 +12,20 @@ Este guia simples ajudará você a instalar e executar o simulador em **Linux**,
 simulador-duffing/
 ├── app.py               # Código fonte principal (seu script Dash)
 ├── requirements.txt     # Lista de bibliotecas necessárias
-├── scripts/
-│   ├── install_run.sh   # Instala e executa em Linux/macOS
-│   └── install_run.bat  # Instala e executa em Windows
+├── scripts/             # Scripts de instalação e execução
+│   ├── install_run.sh   # Linux/macOS
+│   └── install_run.bat  # Windows
+├── assets/              # Recursos estáticos (imagens de demonstração)
+│   ├── diagrama-bifurcacao.png
+│   ├── espaço-fase-2d.png
+│   ├── espaço-fase-3d.png
+│   ├── gráfico-de-recorrência.png
+│   ├── parametros.png
+│   ├── poincare.png
+│   ├── rede-osciladores.png
+│   ├── series-temporais.png
+│   ├── superficie-3d.png
+│   └── cc-ufg.png
 └── README.md            # Este arquivo de instruções
 ```
 
@@ -82,7 +93,56 @@ Após iniciado, abra seu navegador em http://127.0.0.1:8050/ para acessar o simu
 
 ---
 
-## 3. Suporte
+## 3. Exemplo de Uso e Demonstração
+
+### 3.1 Diagrama de Bifurcação
+
+![Diagrama de Bifurcação](assets/diagrama-bifurcacao.png)
+*Mostra pontos de transição para comportamento caótico em função da amplitude A.*
+
+### 3.2 Espaço de Fase 2D
+
+![Espaço de Fase 2D](assets/espaço-fase-2d.png)
+*Fluxo do sistema com setas direcionais.*
+
+### 3.3 Espaço de Fase 3D
+
+![Espaço de Fase 3D](assets/espaço-fase-3d.png)
+*Visualização tridimensional do espaço de fase.*
+
+### 3.4 Gráfico de Recorrência
+
+![Gráfico de Recorrência](assets/gráfico-de-recorrência.png)
+*Mapa de recorrência destacando padrões periódicos e caóticos.*
+
+### 3.5 Variação de Parâmetros
+
+![Variação de Parâmetros](assets/parametros.png)
+*Exemplo de variação de parâmetros e seus impactos no sistema.*
+
+### 3.6 Seção de Poincaré
+
+![Mapa de Poincaré](assets/poincare.png)
+*Seção de Poincaré evidenciando a estrutura do atrator.*
+
+### 3.7 Rede de Osciladores
+
+![Rede de Osciladores](assets/rede-osciladores.png)
+*Visualização da interação em rede de múltiplos osciladores.*
+
+### 3.8 Séries Temporais
+
+![Séries Temporais](assets/series-temporais.png)
+*Evolução temporal de posição e velocidade.*
+
+### 3.9 Superfície 3D
+
+![Superfície 3D](assets/superficie-3d.png)
+*Superfície 3D do potencial duffingiano.*
+
+---
+
+## 4. Suporte
 
 Se tiver problemas:
 
